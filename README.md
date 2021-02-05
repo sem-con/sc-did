@@ -7,7 +7,7 @@ This Semantic Container provides W3C DID-Core compatible did:web provisioning an
 
 Semantic Containers enable secure and traceable data exchange between multiple parties.
 
-more infos and documentation: https://ownyourdata.eu/en/semcon
+more infos and documentation: https://ownyourdata.eu/en/semcon    
 Semantic Container images: https://hub.docker.com/u/semcon
 
 &nbsp;    
